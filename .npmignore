@@ -1,0 +1,4 @@
+/node_modules/
+/config/
+babel.config.js
+.idea

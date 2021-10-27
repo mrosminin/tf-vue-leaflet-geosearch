@@ -1,0 +1,78 @@
+{
+  "name": "tf-vue-geosearch",
+  "version": "1.0.1",
+  "description": "vue2 leaflet geosearch",
+  "author": {
+    "name": "mrosminin"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "webpack --config config/webpack.config.js",
+    "lint": "vue-cli-service lint"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "core-js": "^3.18.2",
+    "leaflet": "^1.7.1",
+    "leaflet-geosearch": "^3.6.0",
+    "vue": "^2.6.14",
+    "vue2-leaflet": "^2.7.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-eslint": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.2",
+    "babel-preset-env": "^1.7.0",
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.4.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "file-loader": "^6.2.0",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.3.0",
+    "svg-inline-loader": "^0.8.2",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.58.1",
+    "webpack-cli": "^4.9.0",
+    "webpack-dev-server": "^4.3.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "_id": "tf-vue-geosearch@1.0.0",
+  "bugs": {
+    "url": "https://github.com/mrosminin/tf-vue-geosearch/issues"
+  },
+  "homepage": "https://github.com/mrosminin/tf-vue-geosearch#readme",
+  "keywords": [
+    "leaflet",
+    "ruler"
+  ],
+  "license": "MIT",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrosminin/tf-vue-geosearch.git"
+  }
+}
