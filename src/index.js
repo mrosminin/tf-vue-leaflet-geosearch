@@ -1,3 +1,5 @@
+import "leaflet-geosearch/assets/css/leaflet.css";
+import "./style.css";
 import LGeosearch from "./LGeosearch.vue";
 
 function install(Vue) {
