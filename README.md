@@ -1,17 +1,17 @@
-# tf-vue-geosearch
+# tf-vue-leaflet-geosearch
 
 vue2 component for leaflet-geosearch
 
 ## Install
 
 ```
-npm install tf-vue-geosearch
+npm install tf-vue-leaflet-geosearch
 ```
 
 ## Usage
 
 ```
-import LGeosearch from "tf-vue-geosearch"
+import LGeosearch from "tf-vue--leaflet-geosearch"
 ```
 
 ```

@@ -5,7 +5,7 @@ module.exports = {
     entry: path.resolve(__dirname + './../src/index.js'),
     output: {
         path: path.resolve(__dirname + './../dist'),
-        filename: 'tf-vue-geosearch.js'
+        filename: 'tf-vue-leaflet-geosearch.js'
     },
     module: {
         rules: [{

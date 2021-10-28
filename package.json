@@ -1,6 +1,6 @@
 {
-  "name": "tf-vue-geosearch",
-  "version": "1.0.12",
+  "name": "tf-vue-leaflet-geosearch",
+  "version": "1.1.0",
   "description": "vue2 leaflet geosearch",
   "author": {
     "name": "mrosminin"
@@ -62,9 +62,9 @@
   ],
   "_id": "tf-vue-geosearch@1.0.0",
   "bugs": {
-    "url": "https://github.com/mrosminin/tf-vue-geosearch/issues"
+    "url": "https://github.com/mrosminin/tf-vue-leaflet-geosearch/issues"
   },
-  "homepage": "https://github.com/mrosminin/tf-vue-geosearch#readme",
+  "homepage": "https://github.com/mrosminin/tf-vue-leaflet-geosearch#readme",
   "keywords": [
     "leaflet",
     "ruler"
@@ -73,6 +73,6 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrosminin/tf-vue-geosearch.git"
+    "url": "git+https://github.com/mrosminin/tf-vue-leaflet-geosearch.git"
   }
 }
